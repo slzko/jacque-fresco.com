@@ -1,13 +1,1 @@
-{
-  "routes": [
-    {
-      "route": "/{*path}",
-      "methods": [
-        "get",
-        "post"
-      ],
-      "redirect": "https://designing-the-future.org/",
-      "statusCode": 301
-    }
-  ]
-}
+{}
